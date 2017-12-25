@@ -1,6 +1,6 @@
 {
-  "name": "react-native-newrelic",
-  "version": "1.1.0",
+  "name": "react-native-newrelic-anarock",
+  "version": "1.1.1",
   "description": "New Relic wrapper for React Native",
   "main": "index.js",
   "scripts": {
@@ -31,9 +31,9 @@
     "eslint-plugin-react": "latest",
     "eslint-plugin-react-native": "latest",
     "jasmine": "latest",
+    "jasmine-expect": "latest",
     "jasmine-reporters": "latest",
     "jasmine-spec-reporter": "latest",
-    "jasmine-expect": "latest",
     "proxyquire": "latest"
   },
   "repository": {
