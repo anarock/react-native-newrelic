@@ -222,3 +222,7 @@ buck-out/
 \.buckd/
 android/app/libs
 android/keystores/debug.keystore
+# HQ context — generated indices and per-developer overrides
+.hq/
+AGENTS.local.md
+CLAUDE.local.md
